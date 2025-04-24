@@ -154,9 +154,9 @@ readinessProbe:
   timeoutSeconds: 1
   scheme: HTTP
 
-volumes: {}
+volumes: []
 
-volumeMounts: {}
+volumeMounts: []
 
 nodeSelector: {}
 
